@@ -10,8 +10,8 @@ class ChecksumAccumulator {
 }
 
   //インスタンス生成
-val acc = new ChecksumAccumulator
-val csa = new ChecksumAccumulator
+//val acc = new ChecksumAccumulator
+//val csa = new ChecksumAccumulator
 
 
 

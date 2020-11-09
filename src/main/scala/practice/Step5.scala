@@ -1,6 +1,6 @@
 package practice
 
-object Step5 extends App {
+object Step5 {
 
   //加工文字列リテラル
   val name = "Tom"
